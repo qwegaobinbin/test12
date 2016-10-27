@@ -10,7 +10,7 @@ namespace NancyDemo
 {
     public class Home : NancyModule
     {
-        //存储 12  15
+        //存储 12  15 16
         public static  List<Student> lstStudent = new List<Student>();
         public Home()
         {
